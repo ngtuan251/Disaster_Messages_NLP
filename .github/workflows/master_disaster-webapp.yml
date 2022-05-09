@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Disaster-Webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8225E38E6FA24EA6BDE0EC9138061B78 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_729163F8DFBA49CEA467DE9A1772DD5C }}
