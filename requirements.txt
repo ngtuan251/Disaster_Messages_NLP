@@ -1,0 +1,10 @@
+jupyterlab
+joblib
+pandas
+SQLAlchemy
+matplotlib
+seaborn
+plotly
+nltk
+scikit-learn
+Flask
