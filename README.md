@@ -2,8 +2,6 @@
 Disaster response organizations receive millions of messages following a disaster and because different organizations take care of different parts of the problem, there needs to be a way of directing messages to the appropriate organization so that they can respond to the problem accordingly. 
 This web application was built to classify disaster messages so that an emergency professional would know which organization to send the message to.
 The application uses a classifier that was trained on the data described below. 
-See my [article](https://medium.com/analytics-vidhya/building-a-text-classifier-for-disaster-response-caf83137e08d) for a walkthrough of the project.
-
 
 ## Data
 The [data](https://appen.com/datasets/combined-disaster-response-data/) contains 26,248 labeled messages that were sent during past disasters around the world, such as a 2010 earthquake in Haiti and a 2012 super-storm (Sandy) in the U.S..
